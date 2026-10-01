@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-labelledby="t">
+<title id="t">Waves of the Alappuzha backwaters</title>
+<style>
+  .w { animation-timing-function: linear; animation-iteration-count: infinite; }
+  @keyframes drift400 { to { transform: translateX(-800px); } }@keyframes drift300 { to { transform: translateX(-600px); } }@keyframes drift240 { to { transform: translateX(-480px); } }
+  .cap { font:500 13px 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill:#8C98C8; text-anchor:middle; }
+  
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+</style>
+<rect width="1200" height="150" rx="18" fill="#05070F"/>
+<clipPath id="r"><rect width="1200" height="150" rx="18"/></clipPath>
+<g clip-path="url(#r)"><path d="M0,78 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 q100.0,-14 200.0,0 t200.0,0 V150 H0 Z" fill="#9D7BFF" fill-opacity="0.2" class="w" style="animation-duration:14s;animation-name:drift400"/><path d="M0,96 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 q75.0,-11 150.0,0 t150.0,0 V150 H0 Z" fill="#2EF2C8" fill-opacity="0.16" class="w" style="animation-duration:10s;animation-name:drift300"/><path d="M0,114 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 q60.0,-8 120.0,0 t120.0,0 V150 H0 Z" fill="#2EF2C8" fill-opacity="0.28" class="w" style="animation-duration:7s;animation-name:drift240"/></g>
+<text x="600.0" y="44" class="cap">streaming from the backwaters of Alappuzha</text>
+</svg>

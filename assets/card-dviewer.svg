@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 190" width="580" height="190" role="img" aria-labelledby="t">
+<title id="t">DViewer: Data aggregation and query platform: view and query many data sources from a single interface.</title>
+<defs>
+  <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#9D7BFF" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#9D7BFF"/><stop offset="1" stop-color="#9D7BFF" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+  .name { font:700 26px 'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif; fill:#EAF0FF; }
+  .desc { font:400 15.5px 'Segoe UI','Inter',-apple-system,'Helvetica Neue',Arial,sans-serif; fill:#8C98C8; }
+  .tag { font:500 13px 'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill:#9D7BFF; }
+  .live { animation: pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+  
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+
+</style>
+<rect width="580" height="190" rx="16" fill="#0A1024"/>
+<rect x="0.5" y="0.5" width="579" height="189" rx="16" fill="none" stroke="#1E2A55"/>
+<clipPath id="cc"><rect width="580" height="190" rx="16"/></clipPath>
+<rect y="0" height="2" width="200" fill="url(#edge)" clip-path="url(#cc)">
+  <animate attributeName="x" from="-200" to="580" dur="4.5s" repeatCount="indefinite"/>
+</rect>
+<text x="32" y="56" class="name">DViewer</text>
+<circle class="live" cx="540" cy="47" r="5" fill="#9D7BFF"/>
+<text x="32" y="96" class="desc">Data aggregation and query platform: view and query</text><text x="32" y="120" class="desc">many data sources from a single interface.</text>
+<circle cx="37" cy="157" r="5" fill="#9D7BFF"/>
+<text x="50" y="162" class="tag">Data platform  |  docs</text>
+</svg>
